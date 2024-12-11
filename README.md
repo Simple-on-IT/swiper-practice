@@ -22,4 +22,4 @@
 
 ## Дополнительные материалы:
 Документация - https://swiperjs.com/demos  
-Видео - 
+Видео - https://youtube.com/shorts/wTYRI61w_gw?feature=share
